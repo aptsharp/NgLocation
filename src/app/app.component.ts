@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'NgLocation';
+
+  lat: number = 0;
+  long: number = 0;
+
 }
